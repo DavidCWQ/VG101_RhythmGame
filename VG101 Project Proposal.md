@@ -1,11 +1,11 @@
 ---
-title: VG101 Project Proposal
-author: Project Group 30
+Title: VG101 Project Proposal
+Author: Project Group 30
 ---
 
-## 1.Project Group Number: Group 30
+## 1. Project Group Number: Group 30
 
-## 2.Members:
+## 2. Members:
 |Name|Name in Hanzi|Student ID|
 |----|-------------|----------|
 |Binhao Qin|秦彬皓|519370910092|
