@@ -10,7 +10,7 @@ Author: Project Group 30
 |----|-------------|----------|
 |Binhao Qin|秦彬皓|519370910092|
 |Jingbo Qu|瞿敬柏|Your ID|
-|Wenqi Cao|曹文琦|Your ID|
+|Wenqi Cao|曹文琦|519370910111|
 
 ## 3. Project Name: C++-based Rhythm Game
 
@@ -20,4 +20,4 @@ Author: Project Group 30
 This project aims to make a rhythm game by C++ and OpenGL, with a Graphical User Interface provided. *An advanced goal is to make a converter that can convert .mp3 music file into .osu like track file with MATLAB. This part may not be achieved if time is not enough.*
 
 ## 6. Motivation
-
+Music games can help players relax and increase their sense of music. Developing a simple music game is a challenge as well as a meaningful task for us. We can learn useful concepts and applications of C++ that may not be learned in class while developing.(class, virtual function, OpenGL, etc.)
