@@ -58,10 +58,10 @@ Music games can help players relax and increase their sense of music. Developing
 ## 9. Timetable
 |Time|Things to do|
 |----|-------------|
-|6/25 —— 7/3|Learn as much as possible|
-|7/4  —— 7/12|Coding the interface|
+|6/25 —— 7/ 3|Learn as much as possible|
+|7/ 4 —— 7/12|Coding the interface|
 |7/12 —— 7/24|Read the midi file|
-|7/25 —— 8/2|System Designing|
+|7/25 —— 8/ 2|System Designing|
 
 ## 10. Extra preparations
 
