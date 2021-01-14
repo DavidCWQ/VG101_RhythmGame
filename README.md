@@ -76,12 +76,12 @@ Music games can help players relax and increase their sense of music. Developing
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_4338e8c75f7959e4a724b2df27d05f8f.jpg)
 
 - Under normal cases, calibration time is around 0.05 second. If it is larger than 0.1s, you are recommended to restart game and do the Audio Calibration again and press the space bar for more rounds.
-<!-- ![PIC_2](./VG_Project_PIC_2.jpg) -->
+<!-- ![PIC_2](/VG_Project_PIC_2.jpg) -->
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_b748b9c531306a205e7a7323dad96af8.jpg)
 
 ### 6.5 Visual Calibration
 - After audio calibration, player is recommended to press the space bar on the keyboard continuously according to the instructions for visual calibration.
-<!-- ![PIC_6](VG_Project_PIC_6.jpg) -->
+![PIC_6](/VG_Project_PIC_6.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_6f3444972865b356c9d1b761a4bf739a.jpg)
 
 - Under normal cases, calibration time is around 0.1 second. If it is larger than 0.15s, you are recommended to restart game and do the Visual Calibration again and press the space bar for more rounds.
