@@ -72,7 +72,7 @@ Music games can help players relax and increase their sense of music. Developing
 
 ### 6.4 Audio Calibration
 - At the beginning of the game, player is recommended to press the space bar on the keyboard continuously for audio calibration.
-<!-- ![PIC_1](VG_Project_PIC_1.jpg) -->
+![PIC_1](VG_Project_PIC_1.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_4338e8c75f7959e4a724b2df27d05f8f.jpg)
 
 - Under normal cases, calibration time is around 0.05 second. If it is larger than 0.1s, you are recommended to restart game and do the Audio Calibration again and press the space bar for more rounds.
