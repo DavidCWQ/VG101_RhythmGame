@@ -72,16 +72,16 @@ Music games can help players relax and increase their sense of music. Developing
 
 ### 6.4 Audio Calibration
 - At the beginning of the game, player is recommended to press the space bar on the keyboard continuously for audio calibration.
-![](./VG_Project_PIC_1.jpg)
+![PIC_1](/PIC/VG_Project_PIC_1.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_4338e8c75f7959e4a724b2df27d05f8f.jpg)
 
 - Under normal cases, calibration time is around 0.05 second. If it is larger than 0.1s, you are recommended to restart game and do the Audio Calibration again and press the space bar for more rounds.
-<!-- ![PIC_2](/VG_Project_PIC_2.jpg) -->
+![PIC_2](/PIC/VG_Project_PIC_2.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_b748b9c531306a205e7a7323dad96af8.jpg)
 
 ### 6.5 Visual Calibration
 - After audio calibration, player is recommended to press the space bar on the keyboard continuously according to the instructions for visual calibration.
-![PIC_6](/VG_Project_PIC_6.jpg)
+![PIC_6](/PIC/VG_Project_PIC_6.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_6f3444972865b356c9d1b761a4bf739a.jpg)
 
 - Under normal cases, calibration time is around 0.1 second. If it is larger than 0.15s, you are recommended to restart game and do the Visual Calibration again and press the space bar for more rounds.
@@ -167,7 +167,7 @@ To Create Your Own Song Track:
 - Notes will show up in the Command Line Program.
 - The Bottom Line is the Judgement Line which notes will fall towards from the top of the screen.
 - These falling notes '#' must be tapped as close to the Judgement Line as possible. They follow the piano keys, sound effects, or instrumental keys.
-<!-- ![PIC_5](VG_Project_PIC_5.jpg) -->
+![PIC_5](/PIC/VG_Project_PIC_5.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_3b2a7ed4a6b40b0b9f8affc106192beb.jpg)
 
 - Each key (totally 9 keys, see Key Mapping) on your keyboard is responsible for the '#' in corresponding column (except for `"isFuzzyOn": true`).
@@ -199,7 +199,7 @@ Performance is represented by a percentage rating in our game. This rating appea
 
 ### 8.3 Game Result
 After completing a song, the Result Screen will be displayed:
-<!-- ![PIC_4](VG_Project_PIC_4.jpg) -->
+![PIC_4](/PIC/VG_Project_PIC_4.jpg)
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_10c4e108c70be5825378cf7962ae3632.jpg)
 
 - The Charming Hits and Combo Counters display their associated values out of the total number of notes.
