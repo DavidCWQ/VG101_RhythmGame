@@ -73,16 +73,16 @@ Music games can help players relax and increase their sense of music. Developing
 ### 6.4 Audio Calibration
 - At the beginning of the game, player is recommended to press the space bar on the keyboard continuously for audio calibration.
 
-  ![Project_PIC_1](PIC/Project_PIC_1.jpg) 
+  <img src="PIC/Project_PIC_1.jpg" alt="Project_PIC_1" style="zoom:50%;" /> 
 
 - Under normal cases, calibration time is around 0.05 second. If it is larger than 0.1s, you are recommended to restart game and do the Audio Calibration again and press the space bar for more rounds.
 
-  ![Project_PIC_2](PIC/Project_PIC_2.jpg) 
+  <img src="PIC/Project_PIC_2.jpg" alt="Project_PIC_2" style="zoom:50%;" /> ) 
 
 ### 6.5 Visual Calibration
 - After audio calibration, player is recommended to press the space bar on the keyboard continuously according to the instructions for visual calibration.
 
-  ![Project_PIC_6](PIC/Project_PIC_6.jpg) 
+  <img src="PIC/Project_PIC_6.jpg" alt="Project_PIC_6" style="zoom:50%;" /> 
 
 - Under normal cases, calibration time is around 0.1 second. If it is larger than 0.15s, you are recommended to restart game and do the Visual Calibration again and press the space bar for more rounds.
 
@@ -170,7 +170,7 @@ To Create Your Own Song Track:
 
 - These falling notes '#' must be tapped as close to the Judgement Line as possible. They follow the piano keys, sound effects, or instrumental keys.
 
-  ![Project_PIC_5](PIC/Project_PIC_5.jpg) 
+  <img src="PIC/Project_PIC_5.jpg" alt="Project_PIC_5" style="zoom:50%;" /> 
 
 - Each key (totally 9 keys, see Key Mapping) on your keyboard is responsible for the '#' in corresponding column (except for `"isFuzzyOn": true`).
 
@@ -204,7 +204,7 @@ Performance is represented by a percentage rating in our game. This rating appea
 ### 8.3 Game Result
 **After completing a song, the Result Screen will be displayed:** 
 
-![Project_PIC_4](PIC/Project_PIC_4.jpg) 
+<img src="PIC/Project_PIC_4.jpg" alt="Project_PIC_4" style="zoom:50%;" /> 
 
 - The Charming Hits and Combo Counters display their associated values out of the total number of notes.
 - The final Rating for the song is displayed.
@@ -227,7 +227,7 @@ This part lists the external libraries and projects used in this project.
 
 > **Make sure that** your Visual Studio has **cmake.exe** in its common extensions, and your Visual Studio Code has **CMake** extensions as well.
 
-<img src="PIC/Project_PIC_8.png" alt="Project_PIC_8" style="zoom:50%;" /> 
+<img src="PIC/Project_PIC_8.png" alt="Project_PIC_8" style="zoom:35%;" /> 
 
 **Then you can download our `.zip` file of the program from `github` and decompress it anywhere you want on your computer.** 
 
